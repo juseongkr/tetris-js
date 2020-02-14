@@ -1,8 +1,8 @@
 # Tetris-js
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
+![Issues](https://img.shields.io/github/issues/juseongkr/tetris-js)
+![Forks](https://img.shields.io/github/forks/juseongkr/tetris-js)
+![Stars](	https://img.shields.io/github/stars/juseongkr/tetris-js)
+![MIT License](https://img.shields.io/github/license/juseongkr/tetris-js)
 
 <p><img width="50%" alt="screen-shot" src="https://user-images.githubusercontent.com/10775915/74510371-f9794200-4f46-11ea-8896-842952229377.png"></p>
 
