@@ -1,0 +1,84 @@
+body {
+	color: #DAD6D6;
+	background: #191F20;
+}
+
+#screen {
+	display: flex;
+}
+
+#main_board {
+	padding: 1px auto;
+	margin: 5px;
+	width: 300px;
+	height: 640px;
+	background-color: azure;
+	border: solid silver 3px;
+	border-radius: 5px;
+}
+
+#main_next {
+	padding: 10px;
+	margin: 5px;
+	width: 60px;
+	height: 60px;
+	background-color: azure;
+	border: solid silver 3px;
+	border-radius: 5px;
+}
+
+#main_controller {
+	padding: 1px auto;
+	margin: 20px 5px auto;
+	margin: 5px;
+	border-radius:5px;
+	text-align: left;
+}
+
+#start {
+	margin: 10px 5px auto;
+	color: #DAD6D6;
+	background: #013CB4;
+	border: solid 2px #002D6E;
+	border-radius: 5px;
+	padding: 20px 30px 20px 30px;
+	letter-spacing: 6px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 9px;
+	font-family: 'Press Start 2P';
+}
+
+#pause {
+	margin: 10px 5px auto;
+	color: #DAD6D6;
+	background: #611f29;
+	border: solid 2px #600A20;
+	border-radius: 5px;
+	padding: 20px 30px 20px 30px;
+	letter-spacing: 6px;
+	cursor: pointer;
+	text-align: center;
+	font-size: 9px;
+	font-family: 'Press Start 2P';
+}
+
+#main_timer {
+	margin: 10px 5px auto;
+	padding: 15px 10px 15px;
+	color: #D0DFD0;
+	text-align: center auto;
+	font-size: 32px;
+	letter-spacing: 2px;
+	font-family: 'Press Start 2P';
+}
+
+#main_score {
+	margin: 10px 5px auto;
+	padding: 15px 10px 15px;
+	color: #D0DFD0;
+	text-align: center auto;
+	font-size: 32px;
+	letter-spacing: 2px;
+	font-family: 'Press Start 2P';
+}
